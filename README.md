@@ -1,2 +1,3 @@
-# projects-git-workshop-2026-group-3
-A repository for WDCC project members to experiment using Git and GitHub.
+# Group 5 - Projects Git Workshop 2026
+## Member List:
+* [ put your name here :) ]
